@@ -28,8 +28,10 @@ Notes:
 Watch the lecture the weekend before and get started on the assignment a bit earlier. Also, ask more questions :)
 
 Walkthrough of user stories: 
+
 Required
 ![Video Walkthrough](dropbox_required.gif?raw=true)
+
 Optional
 ![Video Walkthrough](dropbox_optional.gif?raw=true)
 
