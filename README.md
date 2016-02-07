@@ -30,9 +30,11 @@ Watch the lecture the weekend before and get started on the assignment a bit ear
 Walkthrough of user stories: 
 
 Required
+
 ![Video Walkthrough](dropbox_required.gif?raw=true)
 
 Optional
+
 ![Video Walkthrough](dropbox_optional.gif?raw=true)
 
 Open-Source Library: none
