@@ -24,11 +24,20 @@ Completed user stories:
 	* [x] Optional: Add a UIScrollView with paging enabled.
 	* [x] Optional: Add 3 UIImageViews for the welcome screens.
 
+Notes:
+Watch the lecture the weekend before and get started on the assignment a bit earlier. Also, ask more questions :)
+
 Walkthrough of user stories: 
 
 ![Video Walkthrough](tippy.gif?raw=true)
 
 Open-Source Library: none
+GIF created with LiceCap.
+
+
+
+
+
 
 
 
